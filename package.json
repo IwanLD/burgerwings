@@ -1,0 +1,14 @@
+{
+  "name": "burgerwings",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app_statemachine_simplified.js",
+  "author": "Aaron.ai",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.16.1",
+    "express": "4.14.1",
+    "machina": "2.0.0",
+    "nodemon": "1.11.0"
+  }
+}
